@@ -3,6 +3,8 @@ title: Hello World
 abbrlink: 4a17b156
 date: 2017-04-02 12:12:04
 updated: 2021-04-24 12:12:04
+tags: 关于
+comments: true
 ---
 这里是**Blake**的新站点: RubyCore。
 
