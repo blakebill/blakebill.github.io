@@ -2,29 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://rubycore.vercel.app/tags/index.html</loc>
+    <loc>https://rubycore.org/tags/index.html</loc>
     
     <lastmod>2021-04-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://rubycore.vercel.app/404/index.html</loc>
+    <loc>https://rubycore.org/404/index.html</loc>
     
     <lastmod>2021-04-26</lastmod>
     
   </url>
   
   <url>
-    <loc>https://rubycore.vercel.app/article/4a17b156.html</loc>
+    <loc>https://rubycore.org/article/4a17b156.html</loc>
     
     <lastmod>2021-04-24</lastmod>
     
   </url>
   
+  <url>
+    <loc>https://rubycore.org/article/638fbc0c.html</loc>
+    
+    <lastmod>2020-04-26</lastmod>
+    
+  </url>
+  
 
   <url>
-    <loc>https://rubycore.vercel.app/</loc>
+    <loc>https://rubycore.org/</loc>
     <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -32,7 +39,21 @@
 
   
   <url>
-    <loc>https://rubycore.vercel.app/tags/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://rubycore.org/tags/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2021-04-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rubycore.org/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-04-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rubycore.org/tags/Github/</loc>
     <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
