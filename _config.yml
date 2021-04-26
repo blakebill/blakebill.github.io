@@ -123,37 +123,62 @@ sitemap:
   tags: true
   categories: true
 
-js_concator:
-  enable: false
-  bundle_path: '/js/bundle.js'
-  front: false
-  silent: false
-html_minifier:
+minify:
   enable: true
-  ignore_error: false
-  silent: false
-  exclude:
-css_minifier:
-  enable: true
-  silent: false
-  exclude: 
-    - '*.min.css'
-js_minifier:
-  enable: true
-  mangle: true
-  silent: false
-  output:
-  compress:
-  exclude: 
-    - '*.min.js'
-image_minifier:
-  enable: true
-  interlaced: false
-  multipass: false
-  optimizationLevel: 2
-  pngquant: false
-  progressive: false
-  silent: false
+  html:
+    enable: true
+    exclude:
+  css:
+    enable: true
+    exclude:
+      - '*.min.css'
+  js:
+    enable: true
+    exclude:
+      - '*.min.js'
+  svg:
+    enable: true
+    include:
+      - '*.svg'
+      - '!*.min.svg'
+  gzip:
+    enable: true
+    include:
+      - '*.html'
+      - '*.css'
+      - '*.js'
+      - '*.txt'
+      - '*.ttf'
+      - '*.atom'
+      - '*.stl'
+      - '*.xml'
+      - '*.svg'
+      - '*.eot'
+      - '*.json'
+  brotli:
+    enable: true
+    include:
+      - '*.html'
+      - '*.css'
+      - '*.js'
+      - '*.txt'
+      - '*.ttf'
+      - '*.atom'
+      - '*.stl'
+      - '*.xml'
+      - '*.svg'
+      - '*.eot'
+      - '*.json'
+  xml:
+    enable: false
+    include:
+      - '*.xml'
+      - '!*.min.xml'
+  json:
+    enable: false
+    include:
+      - '*.json'
+      - '!*.min.json'
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
