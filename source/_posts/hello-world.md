@@ -6,4 +6,5 @@ abbrlink: 4a17b156
 
 全新启航！
 <!--more-->
-现已以“Hexo & NexT”强力驱动。
+*现已以“Hexo & NexT”强力驱动。*
+*托管于Vercel*
