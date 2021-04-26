@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blakebill.github.io
+url: https://rubycore.vercel.app
 permalink: article/:abbrlink.html
 abbrlink:
   alg: crc32  # crc16(default) and crc32
@@ -115,6 +115,15 @@ mathjax:
   normal_width: 0.6 # relative normal (monospace) width
   append_css: true # add CSS to pages rendered by MathJax
   every_page: false # if true, every page will be rendered by MathJax regardless the `mathjax` setting in Front-matter
+
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+  rel: false
+  tags: true
+  categories: true
+
+all_minifier: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
