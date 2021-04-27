@@ -39,6 +39,13 @@
 
   
   <url>
+    <loc>https://rubycore.org/tags/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2021-04-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://rubycore.org/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-04-27</lastmod>
     <changefreq>daily</changefreq>
@@ -47,13 +54,6 @@
   
   <url>
     <loc>https://rubycore.org/tags/Github/</loc>
-    <lastmod>2021-04-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rubycore.org/tags/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2021-04-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
