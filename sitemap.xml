@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://rubycore.org/article/c4442e98.html</loc>
+    
+    <lastmod>2021-05-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://rubycore.org/404.html</loc>
     
-    <lastmod>2021-04-27</lastmod>
+    <lastmod>2021-04-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://rubycore.org/categories/index.html</loc>
+    
+    <lastmod>2021-04-28</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://rubycore.org/about/index.html</loc>
+    
+    <lastmod>2021-04-28</lastmod>
     
   </url>
   
   <url>
     <loc>https://rubycore.org/tags/index.html</loc>
     
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-28</lastmod>
     
   </url>
   
@@ -32,29 +53,36 @@
 
   <url>
     <loc>https://rubycore.org/</loc>
-    <lastmod>2021-04-27</lastmod>
+    <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://rubycore.org/tags/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2021-04-27</lastmod>
+    <loc>https://rubycore.org/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</loc>
+    <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://rubycore.org/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-04-27</lastmod>
+    <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://rubycore.org/tags/Github/</loc>
-    <lastmod>2021-04-27</lastmod>
+    <lastmod>2021-05-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rubycore.org/tags/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2021-05-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
