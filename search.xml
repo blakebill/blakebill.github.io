@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Git 学习</title>
+    <url>/article/638fbc0c.html</url>
+    <content><![CDATA[<p>最近部署博客的时候巩固学习了Git指令的用法，整理如下。</p>
+<span id="more"></span>
+<h1 id="Git-分支"><a href="#Git-分支" class="headerlink" title="Git 分支"></a>Git 分支</h1><h2 id="一、克隆分支"><a href="#一、克隆分支" class="headerlink" title="一、克隆分支"></a>一、克隆分支</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone git@github.com:userName&#x2F;CategoryName.git</span><br></pre></td></tr></table></figure>
+
+<h2 id="二、管理分支"><a href="#二、管理分支" class="headerlink" title="二、管理分支"></a>二、管理分支</h2><h3 id="1-查看分支"><a href="#1-查看分支" class="headerlink" title="1.查看分支"></a>1.查看分支</h3><h4 id="a-查看本地分支"><a href="#a-查看本地分支" class="headerlink" title="a.查看本地分支"></a>a.查看本地分支</h4><p>使用 git branch命令，如下：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ git branch</span><br><span class="line">* master</span><br></pre></td></tr></table></figure>
+
+<p>*标识的是你当前所在的分支。</p>
+<h4 id="b-查看远程分支"><a href="#b-查看远程分支" class="headerlink" title="b.查看远程分支"></a>b.查看远程分支</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch -r</span><br></pre></td></tr></table></figure>
+
+<h4 id="c-查看所有分支"><a href="#c-查看所有分支" class="headerlink" title="c.查看所有分支"></a>c.查看所有分支</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch -a</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-本地创建新的分支"><a href="#2-本地创建新的分支" class="headerlink" title="2.本地创建新的分支"></a>2.本地创建新的分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch [branch name]</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-切换到新的分支"><a href="#3-切换到新的分支" class="headerlink" title="3.切换到新的分支"></a>3.切换到新的分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git checkout [branch name]</span><br></pre></td></tr></table></figure>
+
+<h3 id="4-创建-切换分支"><a href="#4-创建-切换分支" class="headerlink" title="4.创建+切换分支"></a>4.创建+切换分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git checkout -b [branch name]</span><br></pre></td></tr></table></figure>
+
+<h3 id="5-将新分支推送到Github"><a href="#5-将新分支推送到Github" class="headerlink" title="5.将新分支推送到Github"></a>5.将新分支推送到Github</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push -u origin [branch name]</span><br></pre></td></tr></table></figure>
+
+<h3 id="6-删除本地分支"><a href="#6-删除本地分支" class="headerlink" title="6.删除本地分支"></a>6.删除本地分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch -d [branch name]</span><br></pre></td></tr></table></figure>
+
+<h3 id="7-删除远程分支"><a href="#7-删除远程分支" class="headerlink" title="7.删除远程分支"></a>7.删除远程分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push origin :[branch name]  #冒号代表删除</span><br></pre></td></tr></table></figure>
+
+<h2 id="三、Git提交本地代码到新分支"><a href="#三、Git提交本地代码到新分支" class="headerlink" title="三、Git提交本地代码到新分支"></a>三、Git提交本地代码到新分支</h2><h3 id="1-切换到新的分支"><a href="#1-切换到新的分支" class="headerlink" title="1.切换到新的分支"></a>1.切换到新的分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git checkout [branch name]</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-添加本地需要提交代码"><a href="#2-添加本地需要提交代码" class="headerlink" title="2.添加本地需要提交代码"></a>2.添加本地需要提交代码</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br></pre></td></tr></table></figure>
+
+<h3 id="3-提交本地代码"><a href="#3-提交本地代码" class="headerlink" title="3.提交本地代码"></a>3.提交本地代码</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git commit -m Site Updated By Team RubyCore.&quot;</span><br></pre></td></tr></table></figure>
+
+<h3 id="4-推送到Git仓库"><a href="#4-推送到Git仓库" class="headerlink" title="4.推送到Git仓库"></a>4.推送到Git仓库</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push -u origin [branch name]</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>参考资料：</p>
+<ol>
+<li><a href="https://blog.csdn.net/chen134225/article/details/95475960">https://blog.csdn.net/chen134225/article/details/95475960</a></li>
+</ol>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>学习</tag>
+        <tag>Github</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>博客更新日志</title>
     <url>/article/c4442e98.html</url>
     <content><![CDATA[<p>此篇用以记录博客开发相关改动。</p>
@@ -57,54 +105,6 @@
 <center>* 代码仓库托管于 Github | 页面服务托管于 Cloudflare & Github & Vercel *</center>]]></content>
       <tags>
         <tag>关于</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Git 学习</title>
-    <url>/article/638fbc0c.html</url>
-    <content><![CDATA[<p>最近部署博客的时候巩固学习了Git指令的用法，整理如下。</p>
-<span id="more"></span>
-<h1 id="Git-分支"><a href="#Git-分支" class="headerlink" title="Git 分支"></a>Git 分支</h1><h2 id="一、克隆分支"><a href="#一、克隆分支" class="headerlink" title="一、克隆分支"></a>一、克隆分支</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git clone git@github.com:userName&#x2F;CategoryName.git</span><br></pre></td></tr></table></figure>
-
-<h2 id="二、管理分支"><a href="#二、管理分支" class="headerlink" title="二、管理分支"></a>二、管理分支</h2><h3 id="1-查看分支"><a href="#1-查看分支" class="headerlink" title="1.查看分支"></a>1.查看分支</h3><h4 id="a-查看本地分支"><a href="#a-查看本地分支" class="headerlink" title="a.查看本地分支"></a>a.查看本地分支</h4><p>使用 git branch命令，如下：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ git branch</span><br><span class="line">* master</span><br></pre></td></tr></table></figure>
-
-<p>*标识的是你当前所在的分支。</p>
-<h4 id="b-查看远程分支"><a href="#b-查看远程分支" class="headerlink" title="b.查看远程分支"></a>b.查看远程分支</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch -r</span><br></pre></td></tr></table></figure>
-
-<h4 id="c-查看所有分支"><a href="#c-查看所有分支" class="headerlink" title="c.查看所有分支"></a>c.查看所有分支</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch -a</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-本地创建新的分支"><a href="#2-本地创建新的分支" class="headerlink" title="2.本地创建新的分支"></a>2.本地创建新的分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch [branch name]</span><br></pre></td></tr></table></figure>
-
-<h3 id="3-切换到新的分支"><a href="#3-切换到新的分支" class="headerlink" title="3.切换到新的分支"></a>3.切换到新的分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git checkout [branch name]</span><br></pre></td></tr></table></figure>
-
-<h3 id="4-创建-切换分支"><a href="#4-创建-切换分支" class="headerlink" title="4.创建+切换分支"></a>4.创建+切换分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git checkout -b [branch name]</span><br></pre></td></tr></table></figure>
-
-<h3 id="5-将新分支推送到Github"><a href="#5-将新分支推送到Github" class="headerlink" title="5.将新分支推送到Github"></a>5.将新分支推送到Github</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push -u origin [branch name]</span><br></pre></td></tr></table></figure>
-
-<h3 id="6-删除本地分支"><a href="#6-删除本地分支" class="headerlink" title="6.删除本地分支"></a>6.删除本地分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git branch -d [branch name]</span><br></pre></td></tr></table></figure>
-
-<h3 id="7-删除远程分支"><a href="#7-删除远程分支" class="headerlink" title="7.删除远程分支"></a>7.删除远程分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push origin :[branch name]  #冒号代表删除</span><br></pre></td></tr></table></figure>
-
-<h2 id="三、Git提交本地代码到新分支"><a href="#三、Git提交本地代码到新分支" class="headerlink" title="三、Git提交本地代码到新分支"></a>三、Git提交本地代码到新分支</h2><h3 id="1-切换到新的分支"><a href="#1-切换到新的分支" class="headerlink" title="1.切换到新的分支"></a>1.切换到新的分支</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git checkout [branch name]</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-添加本地需要提交代码"><a href="#2-添加本地需要提交代码" class="headerlink" title="2.添加本地需要提交代码"></a>2.添加本地需要提交代码</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git add .</span><br></pre></td></tr></table></figure>
-
-<h3 id="3-提交本地代码"><a href="#3-提交本地代码" class="headerlink" title="3.提交本地代码"></a>3.提交本地代码</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git commit -m Site Updated By Team RubyCore.&quot;</span><br></pre></td></tr></table></figure>
-
-<h3 id="4-推送到Git仓库"><a href="#4-推送到Git仓库" class="headerlink" title="4.推送到Git仓库"></a>4.推送到Git仓库</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git push -u origin [branch name]</span><br></pre></td></tr></table></figure>
-
-
-<blockquote>
-<p>参考资料：</p>
-<ol>
-<li><a href="https://blog.csdn.net/chen134225/article/details/95475960">https://blog.csdn.net/chen134225/article/details/95475960</a></li>
-</ol>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>学习</tag>
-        <tag>Github</tag>
       </tags>
   </entry>
 </search>
