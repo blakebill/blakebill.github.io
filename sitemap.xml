@@ -4,7 +4,7 @@
   <url>
     <loc>https://rubycore.org/article/c4442e98.html</loc>
     
-    <lastmod>2021-05-02</lastmod>
+    <lastmod>2021-05-03</lastmod>
     
   </url>
   
@@ -53,7 +53,7 @@
 
   <url>
     <loc>https://rubycore.org/</loc>
-    <lastmod>2021-05-02</lastmod>
+    <lastmod>2021-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,28 +61,28 @@
   
   <url>
     <loc>https://rubycore.org/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2021-05-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rubycore.org/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-05-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://rubycore.org/tags/Github/</loc>
-    <lastmod>2021-05-02</lastmod>
+    <lastmod>2021-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://rubycore.org/tags/%E5%85%B3%E4%BA%8E/</loc>
-    <lastmod>2021-05-02</lastmod>
+    <lastmod>2021-05-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rubycore.org/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-05-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://rubycore.org/tags/Github/</loc>
+    <lastmod>2021-05-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

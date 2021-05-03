@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RubyCore</title>
+  <icon>https://rubycore.org/icon.png</icon>
+  
+  <link href="https://rubycore.org/atom.xml" rel="self"/>
+  
+  <link href="https://rubycore.org/"/>
+  <updated>2021-05-03T05:15:06.564Z</updated>
+  <id>https://rubycore.org/</id>
+  
+  <author>
+    <name>Blake</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客更新日志</title>
+    <link href="https://rubycore.org/article/c4442e98.html"/>
+    <id>https://rubycore.org/article/c4442e98.html</id>
+    <published>2021-04-28T02:33:20.000Z</published>
+    <updated>2021-05-03T05:15:06.564Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;此篇用以记录博客开发相关改动。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="更新日志" scheme="https://rubycore.org/tags/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git 学习</title>
+    <link href="https://rubycore.org/article/638fbc0c.html"/>
+    <id>https://rubycore.org/article/638fbc0c.html</id>
+    <published>2020-04-26T10:43:21.000Z</published>
+    <updated>2020-04-26T10:43:21.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最近部署博客的时候巩固学习了Git指令的用法，整理如下。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="学习" scheme="https://rubycore.org/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Github" scheme="https://rubycore.org/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://rubycore.org/article/4a17b156.html"/>
+    <id>https://rubycore.org/article/4a17b156.html</id>
+    <published>2017-04-02T04:12:04.000Z</published>
+    <updated>2021-04-24T04:12:04.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这里是 &lt;strong&gt;Blake&lt;/strong&gt; 的新站点: &lt;em&gt;&lt;strong&gt;RubyCore&lt;/strong&gt;&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;目前已经历从 Wordpress –&amp;gt; Typecho –&amp;gt; Hexo 的迁移。&lt;/p&gt;
+&lt;p&gt;正努力迁移先前数据。&lt;/p&gt;
+&lt;p&gt;全新启航！&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="关于" scheme="https://rubycore.org/tags/%E5%85%B3%E4%BA%8E/"/>
+    
+  </entry>
+  
+</feed>

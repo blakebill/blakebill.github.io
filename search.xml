@@ -6,6 +6,9 @@
     <content><![CDATA[<p>此篇用以记录博客开发相关改动。</p>
 <span id="more"></span>
 
+<h1 id="2020-5-3"><a href="#2020-5-3" class="headerlink" title="2020/5/3"></a>2020/5/3</h1><ol>
+<li>新增 RSS 订阅。</li>
+</ol>
 <h1 id="2020-5-2"><a href="#2020-5-2" class="headerlink" title="2020/5/2"></a>2020/5/2</h1><ol>
 <li>修复 Cloudflare 站点统计问题；</li>
 <li>对资源所使用的 CDN 进行调整；</li>
@@ -38,6 +41,22 @@
 ]]></content>
       <tags>
         <tag>更新日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/article/4a17b156.html</url>
+    <content><![CDATA[<p>这里是 <strong>Blake</strong> 的新站点: <em><strong>RubyCore</strong></em>。</p>
+<p>目前已经历从 Wordpress –&gt; Typecho –&gt; Hexo 的迁移。</p>
+<p>正努力迁移先前数据。</p>
+<p>全新启航！</p>
+<span id="more"></span>
+
+<hr>
+<center>* 现以 Hexo & NexT 强力驱动 *</center>
+<center>* 代码仓库托管于 Github | 页面服务托管于 Cloudflare & Github & Vercel *</center>]]></content>
+      <tags>
+        <tag>关于</tag>
       </tags>
   </entry>
   <entry>
@@ -86,22 +105,6 @@
       <tags>
         <tag>学习</tag>
         <tag>Github</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/article/4a17b156.html</url>
-    <content><![CDATA[<p>这里是 <strong>Blake</strong> 的新站点: <em><strong>RubyCore</strong></em>。</p>
-<p>目前已经历从 Wordpress –&gt; Typecho –&gt; Hexo 的迁移。</p>
-<p>正努力迁移先前数据。</p>
-<p>全新启航！</p>
-<span id="more"></span>
-
-<hr>
-<center>* 现以 Hexo & NexT 强力驱动 *</center>
-<center>* 代码仓库托管于 Github | 页面服务托管于 Cloudflare & Github & Vercel *</center>]]></content>
-      <tags>
-        <tag>关于</tag>
       </tags>
   </entry>
 </search>
