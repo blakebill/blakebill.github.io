@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>博客更新日志</title>
+    <url>/article/c4442e98.html</url>
+    <content><![CDATA[<p>此篇用以记录博客开发相关改动。</p>
+<span id="more"></span>
+
+<h1 id="2021-8-1"><a href="#2021-8-1" class="headerlink" title="2021/8/1"></a>2021/8/1</h1><ol>
+<li>对位于 Typecho 老架构的文章进行了迁移。</li>
+</ol>
+<h1 id="2021-7-18"><a href="#2021-7-18" class="headerlink" title="2021/7/18"></a>2021/7/18</h1><ol>
+<li>关闭评论系统。</li>
+</ol>
+<h1 id="2021-5-3"><a href="#2021-5-3" class="headerlink" title="2021/5/3"></a>2021/5/3</h1><ol>
+<li>新增 RSS 订阅。</li>
+</ol>
+<h1 id="2021-5-2"><a href="#2021-5-2" class="headerlink" title="2021/5/2"></a>2021/5/2</h1><ol>
+<li>修复 Cloudflare 站点统计问题；</li>
+<li>对资源所使用的 CDN 进行调整；</li>
+<li>暂时禁用远程自定义字体直到发现不过分拖延加载速度的方法，如本地安装有字体则仍会自动显示自定义字体。</li>
+</ol>
+<h1 id="2021-5-1"><a href="#2021-5-1" class="headerlink" title="2021/5/1"></a>2021/5/1</h1><ol>
+<li>升级样式；</li>
+<li>修复搜索点击无反应的问题。</li>
+</ol>
+<h1 id="2020-4-29"><a href="#2020-4-29" class="headerlink" title="2020/4/29"></a>2020/4/29</h1><ol>
+<li>新增搜索系统。</li>
+</ol>
+<h1 id="2021-4-28"><a href="#2021-4-28" class="headerlink" title="2021/4/28"></a>2021/4/28</h1><ol>
+<li>新增评论系统；</li>
+<li>将 Disqus 调整为 DisqusJS 以方便部分地区访问评论；</li>
+<li>新增 Cloudflare 站点统计。</li>
+</ol>
+<h1 id="2021-4-27"><a href="#2021-4-27" class="headerlink" title="2021/4/27"></a>2021/4/27</h1><ol>
+<li>对主题进行细分优化；</li>
+<li>网站启用自定义字体；</li>
+<li>对资源所使用的 CDN 进行调整。</li>
+</ol>
+<h1 id="2021-4-26"><a href="#2021-4-26" class="headerlink" title="2021/4/26"></a>2021/4/26</h1><ol>
+<li>更换主题；</li>
+<li>同时托管至 Github、Vercel 和 Cloudflare。</li>
+</ol>
+<h1 id="2021-4-25"><a href="#2021-4-25" class="headerlink" title="2021/4/25"></a>2021/4/25</h1><ol>
+<li>全新迁移至以 Hexo 为构建的博客。</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>更新日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/article/4a17b156.html</url>
+    <content><![CDATA[<p>这里是 <strong>Blake</strong> 的新站点: <em><strong>RubyCore</strong></em>。</p>
+<p>博客也从 WeCode 更名为 RubyCore。</p>
+<p>目前已经历从 Wordpress –&gt; Typecho –&gt; Hexo 的迁移。</p>
+<p>全新启航！</p>
+<span id="more"></span>
+
+<hr>
+<center>* 现以 Hexo & NexT 强力驱动 *</center>
+<center>* 代码仓库托管于 Github | 页面服务托管于 Cloudflare & Github & Vercel *</center>]]></content>
+      <tags>
+        <tag>关于</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Git 学习</title>
     <url>/article/638fbc0c.html</url>
     <content><![CDATA[<p>最近部署博客的时候巩固学习了Git指令的用法，整理如下。</p>
@@ -43,68 +108,253 @@
 </ol>
 </blockquote>
 ]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
       <tags>
         <tag>学习</tag>
         <tag>Github</tag>
       </tags>
   </entry>
   <entry>
-    <title>博客更新日志</title>
-    <url>/article/c4442e98.html</url>
-    <content><![CDATA[<p>此篇用以记录博客开发相关改动。</p>
+    <title>吾爱破解今日开放注册</title>
+    <url>/article/f4882ee2.html</url>
+    <content><![CDATA[<p>今天吾爱破解开放了注册，一共有两个时间段可供注册。</p>
+<blockquote>
+<p><strong>12:00~14:00, 16:00-18:00</strong></p>
+</blockquote>
 <span id="more"></span>
 
-<h1 id="2020-5-3"><a href="#2020-5-3" class="headerlink" title="2020/5/3"></a>2020/5/3</h1><ol>
-<li>新增 RSS 订阅。</li>
-</ol>
-<h1 id="2020-5-2"><a href="#2020-5-2" class="headerlink" title="2020/5/2"></a>2020/5/2</h1><ol>
-<li>修复 Cloudflare 站点统计问题；</li>
-<li>对资源所使用的 CDN 进行调整；</li>
-<li>暂时禁用远程自定义字体直到发现不过分拖延加载速度的方法，如本地安装有字体则仍会自动显示自定义字体。</li>
-</ol>
-<h1 id="2021-5-1"><a href="#2021-5-1" class="headerlink" title="2021/5/1"></a>2021/5/1</h1><ol>
-<li>升级样式；</li>
-<li>修复搜索点击无反应的问题。</li>
-</ol>
-<h1 id="2020-4-29"><a href="#2020-4-29" class="headerlink" title="2020/4/29"></a>2020/4/29</h1><ol>
-<li>新增搜索系统。</li>
-</ol>
-<h1 id="2021-4-28"><a href="#2021-4-28" class="headerlink" title="2021/4/28"></a>2021/4/28</h1><ol>
-<li>新增评论系统；</li>
-<li>将 Disqus 调整为 DisqusJS 以方便部分地区访问评论；</li>
-<li>新增 Cloudflare 站点统计。</li>
-</ol>
-<h1 id="2021-4-27"><a href="#2021-4-27" class="headerlink" title="2021/4/27"></a>2021/4/27</h1><ol>
-<li>对主题进行细分优化；</li>
-<li>网站启用自定义字体；</li>
-<li>对资源所使用的 CDN 进行调整。</li>
-</ol>
-<h1 id="2021-4-26"><a href="#2021-4-26" class="headerlink" title="2021/4/26"></a>2021/4/26</h1><ol>
-<li>更换主题；</li>
-<li>同时托管至 Github、Vercel 和 Cloudflare。</li>
-</ol>
-<h1 id="2021-4-25"><a href="#2021-4-25" class="headerlink" title="2021/4/25"></a>2021/4/25</h1><ol>
-<li>全新迁移至以 Hexo 为构建的博客。</li>
-</ol>
+<p>请各位抓紧时间。<br><a href="https://www.52pojie.cn/member.php?mod=LCG_Register">注册地址</a></p>
+<hr>
+<p>当你打开注册页面的时候，系统会强制等待十分钟用来生成安全验证码，这个时间是用来了解吾爱破解论坛和阅读注册须知，请仔细阅读以下内容，以便让您能成功加入到论坛中！ </p>
+<p>一、准备注册遇到的问题<br>1、俗话说，不被攻击的网站不是好网站，每次吾爱开放注册基本都会遭到攻击造成注册异常，为此如果遭受攻击影响注册时间的话，我们会对开放注册时间进行相应加时。</p>
+<p>2、如果遇到验证码输入不正确、安全验证码生成无效或者点击提交没反应等异常的情况，请查看这个帖子，里面有详细的解决方案和工具<a href="https://www.52pojie.cn/thread-98585-1-1.html%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%B8%96%E5%AD%90%E5%86%85%E5%AE%B9%E6%97%A0%E6%B3%95%E8%A7%A3%E5%86%B3%EF%BC%8C%E9%82%A3%E8%AF%B7%E5%B0%BD%E5%BF%AB%E6%9B%B4%E6%8D%A2%E7%94%B5%E8%84%91%E8%BF%9B%E8%A1%8C%E6%B3%A8%E5%86%8C%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%80%BD%E8%AF%AF%E5%A4%AA%E5%A4%9A%E6%97%B6%E9%97%B4%E3%80%82">https://www.52pojie.cn/thread-98585-1-1.html，如果帖子内容无法解决，那请尽快更换电脑进行注册，不要耽误太多时间。</a></p>
+<p>二、注册中遇到的问题<br>1、有5%的人因为邮箱地址输入不正确，注册后无法收到激活邮件从而不能激活账号导致账号被清理，很多同学很自信说自己输入的没问题，之后仔细一看少个字母，原因就是键盘坏了，现在给你十分钟，请仔细认真反复多次睁大眼睛确认邮箱是否输入正确，论坛之所以禁止修改注册邮箱，是为了防止论坛账号被盗后无法找回密码。</p>
+<p>2、有10%的人因为收不到激活邮件，无法激活账号被清理，论坛推荐使用网易等大公司的邮箱进行注册，不建议使用国外邮箱注册，在收不到激活邮件的情况下，按照管理写的教程进行排查<a href="https://www.52pojie.cn/thread-98585-1-1.html">https://www.52pojie.cn/thread-98585-1-1.html</a> ，99%的用户可以解决，这些都是解决几万用户激活问题总结的经验，开放注册时候一天邮箱系统要发上万封激活邮件，很多激活邮件都在排队发送，收不到的同学也可以在人少的时候多次尝试再次发送激活邮件功能来激活。</p>
+<p>三、注册后遇到的问题<br>1、有60%的人因为注册后没有再登陆，或者登陆后没有过发帖回帖交流，论坛对于不活跃用户会进行定期清理，特别提醒登陆签到领红包并不算活跃，要经常登陆并且有发帖或者回帖交流才算有活跃，但也不是说只回一两次帖子就算功德圆满了，多少帖子是没有标准答案的，所以尽量多参与到论坛交流中来，给予帮助你的人加热心和论坛币，做一个热心受欢迎的人，如果不想发帖和分享交流只想要个ID做伸手党的话，请不要注册本站会员，我们不要潜水僵尸，我们宁缺毋滥。</p>
+<p>2、有15%的人因为发帖违规，而被清理账号，对于刚注册成功论坛的朋友，请认真对于吾爱破解论坛总版规<a href="https://www.52pojie.cn/thread-143136-1-1.html%EF%BC%8C%E8%AE%BA%E5%9D%9B%E5%AF%B9%E5%8F%91%E6%B1%82%E7%A0%B4%E8%A7%A3%E3%80%81%E7%95%99QQ%E7%AD%89%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%E5%92%8C%E5%8F%91%E5%B9%BF%E5%91%8A%E7%AD%89%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%E5%B8%96%E5%AD%90%E4%BC%9A%E8%BF%9B%E8%A1%8C%E4%B8%A5%E6%A0%BC%E5%A4%84%E7%90%86%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%89%88%E8%A7%84%EF%BC%8C%E9%82%A3%E8%BF%99%E9%87%8C%E4%B8%8D%E6%AC%A2%E8%BF%8E%E4%BD%A0%EF%BC%8C%E8%AE%BA%E5%9D%9B%E6%9C%89%E6%9D%83%E5%88%A0%E9%99%A4%E8%B4%A6%E5%8F%B7%EF%BC%8C%E8%AE%BA%E5%9D%9B%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E7%BA%BF%E4%B8%8BQQ%E7%AD%89%E7%94%A8%E6%88%B7%E7%BE%A4%EF%BC%8C%E8%B0%A8%E9%98%B2%E4%B8%8A%E5%BD%93%E5%8F%97%E9%AA%97%E3%80%82">https://www.52pojie.cn/thread-143136-1-1.html，论坛对发求破解、留QQ等联系方式和发广告等违规行为帖子会进行严格处理，如果你不尊重版规，那这里不欢迎你，论坛有权删除账号，论坛也没有任何线下QQ等用户群，谨防上当受骗。</a></p>
+<p>3、有10%的人因为注册马甲，而被清理账号，论坛禁止注册多个账号和马甲，禁止贩卖论坛账号和资源，发现会直接删除账号，每次开放注册都有同学不信邪，非要注册几个号，请不要考验识别马甲的能力，后台有全自动多重算法马甲识别加人肉检索功能，请不要以身试法。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>GoDaddy虚拟空间使用感受</title>
+    <url>/article/b2b393cf.html</url>
+    <content><![CDATA[<p>今天买了一台狗爹的虚拟空间，货比三家，挑了这家最便宜的哈哈！<br>（当时做了一件很傻吊的事情，直接删鸡还没要退款，相当于买了两份……）</p>
+<p>对于GoDaddy虚拟主机，小编相信很多站长朋友都很熟悉，作为全球最大的域名注册商，不仅访问速度快、服务好、而且稳定性也是非常强的，最重要的是价格是很便宜，这些也是很多站长喜欢GoDaddy的原因，但是GoDaddy虚拟主机到底怎么样呢?接下来小编就给大家分析为什么那么多人喜欢选择GoDaddy。</p>
+<span id="more"></span>
+<h1 id="第一、访问速度快"><a href="#第一、访问速度快" class="headerlink" title="第一、访问速度快"></a>第一、访问速度快</h1><p>对于站长们来说访问速度的快慢是主要因素之一，当速度达不到的时候，用户就访问不到你的网站，这样会造成大量的用户流失，从而失去更多的经济收入，得不偿失。但是GoDaddy美国虚拟主机就不一样了，它在国内的访问速度整体是很不错的，访问速度非常顺畅，不会出现打不开或者打开很慢的现象。</p>
+<h1 id="第二、稳定性很强"><a href="#第二、稳定性很强" class="headerlink" title="第二、稳定性很强"></a>第二、稳定性很强</h1><p>GoDaddy采用自建机房，不仅仅在速度上很快，软硬件配置也属于顶尖水平，通过检测和用户的反馈统计，得出GoDaddy在稳定性上的排名一直都是名列前茅，GoDaddy主机也承诺在线率99.9%以上，稳定性一直做的都比较好。</p>
+<h1 id="第三、价格优惠"><a href="#第三、价格优惠" class="headerlink" title="第三、价格优惠"></a>第三、价格优惠</h1><p>了解美国虚拟主机的都知道，美国虚拟主机的价格比国内的低，而GoDaddy是美国虚拟主机中价格超低的虚拟主机之一，GoDaddy虚拟主机的价格也是根据方案的不同而不同的，其中GoDaddy推出经济型、豪华型和无限型三种主机套餐方案，这三种套餐本身的价格就是很便宜的，不过使用GoDaddy优惠码购买就更实惠便宜了，其中通过优惠码购买GoDaddy经济型主机最低 只需要1美元每月(bbs点idcspy点com/forum-45-1点html)，优惠幅度超过了80%的力度，而豪华型和无限型也可以享受50%的优惠折扣。</p>
+<h1 id="第四、服务好"><a href="#第四、服务好" class="headerlink" title="第四、服务好"></a>第四、服务好</h1><p>GoDaddy不仅保证99.9%的在线稳定性，同时也做出了30天不满意无条件退款保证，还有客服全天24小时在线处理问题的服务，保证随时随地为用户解决问题。</p>
+<p>以上所介绍的无论你是个人、中小型企业还是外贸企业等，GoDaddy都是很好的选择，它不仅从访问速度、稳定性还是价格和服务上都很好的验证了GoDaddy适应不同企业。</p>
+<p>好了，这几天我学习了很多，通过WordPress搭建了一个自己的网站，由于自己是Google信徒，果断为自己的网站换上Material的皮，很称心！<br>但是经过几天的体验下来，发现狗爹这个新加坡的节点实在太慢，我路由追踪了一下，发现新加坡居然绕路美国（现在不绕了），于是切换到了美国机房，速度差不多是龟速。<br>但是作为一个学习机，我认为他已经物尽其用了，了解了一些网站的基本配置。</p>
+]]></content>
+      <categories>
+        <category>服务器</category>
+      </categories>
       <tags>
-        <tag>更新日志</tag>
+        <tag>服务器</tag>
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/article/4a17b156.html</url>
-    <content><![CDATA[<p>这里是 <strong>Blake</strong> 的新站点: <em><strong>RubyCore</strong></em>。</p>
-<p>目前已经历从 Wordpress –&gt; Typecho –&gt; Hexo 的迁移。</p>
-<p>正努力迁移先前数据。</p>
-<p>全新启航！</p>
+    <title>本站搬迁至 HostShare 高性能主机</title>
+    <url>/article/8ac70619.html</url>
+    <content><![CDATA[<h2 id="搬迁原因"><a href="#搬迁原因" class="headerlink" title="搬迁原因"></a>搬迁原因</h2><p>因为之前本博客主机放在咖啡主机，有不少朋友说无法访问，有时候还访问极慢，所以把网站搬了出来。经过艰难抉择，最终选定在 HostShare 的香港103节点SSD VPS。<br>之前跑了20多天的咖啡主机香港CN2，效果差强人意，首先除了提交工单，站长本人的态度不是很好，要求开启TUN/TAP方便做BBR，购买页面详细写着可开启，到最后说：开这个干什么？翻墙？BBR？CN2够快了，不要开，我XX……然后走的套路云线路（都懂的是什么线路），香港感觉跟丢在美国没什么区别，虚拟架构OVZ，HDD大概30M/s，即便拥有3C，其他方面配置的落后也无法发挥全部的性能。不会购买第二次！也不推荐新人入坑。</p>
+<h2 id="系统选择"><a href="#系统选择" class="headerlink" title="系统选择"></a>系统选择</h2><p>今天刚刚迁移好网站，没什么大问题，第一次在生产环境使用Ubuntu，之前一直使用CentOS，对Ubuntu似乎总感觉有偏见，也不知道哪里来的，但体验过之后我就深深爱上了Ubuntu，很棒，尤其是软件仓库。并且我也没有一个专门的运维团队，CentOS的相关社区显然对我来说不友好，我选择Ubuntu的最重要原因也是他的社区。<br>以我的经验，我使用 CentOS 和 Ubuntu 作为服务器，稍微偏爱 Ubuntu 一点点，因为它的社区。<br>抛开内核版本来说，Linux各发行版用的内核都是一样的，不同的只是安装的软件包。<br>CentOS是RedHat的社区版本，可以兼容RedHat的RPM安装包，一般用作服务器，预安装的也都是服务器的内容。除了没有RedHat服务外（反正要钱的咱也不会买），用起来与RedHat相差不大。包管理一般用rpm或者yum来管理。<br>Ubuntu是基于Debian发行版和GNOME桌面环境，也有KDE版本，属于较流行的发行版，它强化了图形方面的功能，有面向一般用户的桌面版本，也有服务器版本。因为其桌面版本比较漂亮，有较多多媒体方面的软件和ubuntu软件中心的支持，对一般用户也还算好用，所以较流行。其服务器版本也就没什么好说了，都差不太多。包管理一般用apt-get。</p>
+<h2 id="后言"><a href="#后言" class="headerlink" title="后言"></a>后言</h2><p>总的来说会安安心心把网站弄下去，两年断断续续也总算安稳下来。<br>很多文章在WordPress迁移Typecho的时候丢失，也没有精力找回了，就 当作是一个全新的开始吧！<br>欢迎来到全新的“HydraBlog”</p>
+]]></content>
+      <categories>
+        <category>动态</category>
+      </categories>
+      <tags>
+        <tag>服务器</tag>
+        <tag>动态</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于博客部分更新</title>
+    <url>/article/3ffa55c6.html</url>
+    <content><![CDATA[<p>针对播放控件的更新，新增了进度条调控。</p>
+<p>修改了代码高亮部分的底色，更容易辨析。</p>
+<p>新增文章字数统计，方便于阅读前评估阅读时间。</p>
+<p>手机端点击头像会自动收起侧边栏。</p>
+<p>修复 Safari 浏览器下，左侧边栏有一点小的样式问题。</p>
+<p>新增画廊。</p>
+]]></content>
+      <categories>
+        <category>动态</category>
+      </categories>
+      <tags>
+        <tag>动态</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>WordPress成功转Typecho</title>
+    <url>/article/845cb4e1.html</url>
+    <content><![CDATA[<p>个人习惯，网站有较大的改动时就推倒重做，现在你所看到的已是第九次重建网站了。<br>第一次接触到这个是在两年前，当时看到不少推荐GoDaddy的虚拟空间，就买了一年的，照着教程搭建起了WordPress，成立了第一个网站，那时觉得网站搭建很简单，但后来因为GoDaddy服务器速度实在慢，新加坡机房绕路美国（现在直连了）SMTP发信服务有问题，就没有再弄下去。<br>第二年直接购买了BandWagonHost，学会了搭建面板，也对自己的网站有了更多操作权，总的来说BWH是真的牛逼，纵然超售如此之厉害还是很流畅，当然买了主要是做番茄服务，后因IP被ban也就没有继续下去。<br>今年是第三个年头，VPS方面Vultr也尝试过，现在挂在CFHOST上，不多评论，这一年学到了很多，也尝试自己解决了不少问题。<br>在WordPress上学习了很多的技术，但渐渐发现，WP的臃肿已经不符合我的Blog，并且很多功能也用不到，由于众所周知的原因导致国内访问偏慢，至此转为国人开发的Typecho。<br>仅仅写作。</p>
+]]></content>
+      <categories>
+        <category>动态</category>
+      </categories>
+      <tags>
+        <tag>动态</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>「DNSPOD」如何自行搭建DDNS</title>
+    <url>/article/36cb3b.html</url>
+    <content><![CDATA[<blockquote>
+<p>最近更新：2018/08/14 17:04 新增GoDNS</p>
+</blockquote>
+<h2 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h2><p>DDNS最重要的就是域名，可以是收费也可以免费。</p>
+<p>我们以免费为例；<br><img data-src="/images/ddns/4216778621.png" alt="20180624211243.png"><br><a href="http://www.dot.tk/zh/index.html">http://www.dot.tk/zh/index.html</a>（Free domains for all）</p>
+<p>以hydrablog为例，那我们可以看到有五个免费域名可供我们注册，我选择了.cf，待会所需要的工具为DNSPOD。<br><img data-src="/images/ddns/2180166369.png" alt="20180624211318.png"></p>
+<p>会跳转到Freenom的页面，我们选择12个月，并在DNS里随便填写一个IP以作备用。</p>
+<p>跳转到下一页，注册或者登陆账号。</p>
 <span id="more"></span>
 
+<p>进入到域名管理页面，</p>
+<p>修改DNS服务器为DNSPOD的。<img data-src="/images/ddns/3245050327.png" alt="20180624212916.png"></p>
+<h2 id="DNSPOD设置"><a href="#DNSPOD设置" class="headerlink" title="DNSPOD设置"></a>DNSPOD设置</h2><p>添加域名。<img data-src="/images/ddns/2965277327.png" alt="20180624212747.png"></p>
+<p>添加纪录，IP地址为你后台所提供的IP地址。<img data-src="/images/ddns/1763445576.png" alt="20180624213409.png"></p>
+<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p><em><strong>ArDNSPod</strong></em><a href="https://github.com/anrip/ArDNSPod">(Github项目地址)</a></p>
+<p>基于DNSPod用户API实现的纯Shell动态域名客户端，适配网卡地址。</p>
+<p><strong>使用</strong></p>
+<p>复制dns.conf.example到同一目录下的dns.conf并根据你的配置修改即可。</p>
+<p>执行时直接运行ddnspod.sh，支持cron任务。</p>
+<p>配置文件格式：</p>
+<pre><code># 安全起见，不推荐使用密码认证
+# arMail=&quot;test@gmail.com&quot;
+# arPass=&quot;123&quot;
+
+# 推荐使用Token认证
+# 按`TokenID,Token`格式填写
+arToken=&quot;12345,7676f344eaeaea9074c123451234512d&quot;
+
+# 每行一个域名
+arDdnsCheck &quot;test.org&quot; &quot;subdomain&quot;
+</code></pre>
+<p> 作者：anrip</p>
+<p><em><strong>GoDNS</strong></em></p>
+<p>Github项目地址：<a href="https://github.com/timothyye/godns">https://github.com/timothyye/godns</a></p>
+<pre><code>git clone https://github.com/timothyye/godns.git
+cd cmd/godns
+go get -v
+go build
+$ ./godns -h
+Usage of ./godns:
+  -c string
+        Specify a config file (default &quot;./config.json&quot;)
+  -d    Run it as docker mode
+  -h    Show help
+</code></pre>
+<p>下载<a href="https://github.com/timothyye/godns/blob/master/config_sample.json">https://github.com/timothyye/godns/blob/master/config_sample.json</a><br>重命名为config.json</p>
+<pre><code>&#123;
+  &quot;provider&quot;: &quot;DNSPod&quot;,
+  &quot;email&quot;: &quot;example@gmail.com&quot;,
+  &quot;password&quot;: &quot;YourPassword&quot;,
+  &quot;login_token&quot;: &quot;&quot;,
+  &quot;domains&quot;: [&#123;
+      &quot;domain_name&quot;: &quot;example.com&quot;,
+      &quot;sub_domains&quot;: [&quot;www&quot;,&quot;test&quot;]
+    &#125;,&#123;
+      &quot;domain_name&quot;: &quot;example2.com&quot;,
+      &quot;sub_domains&quot;: [&quot;www&quot;,&quot;test&quot;]
+    &#125;
+  ],
+  &quot;ip_url&quot;: &quot;http://members.3322.org/dyndns/getip&quot;,
+  &quot;log_path&quot;: &quot;./godns.log&quot;,
+  &quot;socks5_proxy&quot;: &quot;&quot;
+&#125;
+</code></pre>
+<p>最后运行<code>nohup ./godns &amp;</code></p>
+<p>还有很多开启方法，具体参见GitHub项目</p>
 <hr>
-<center>* 现以 Hexo & NexT 强力驱动 *</center>
-<center>* 代码仓库托管于 Github | 页面服务托管于 Cloudflare & Github & Vercel *</center>]]></content>
+<p> <em><strong>cron 定时任务</strong></em></p>
+<p><strong>使用</strong></p>
+<pre><code> */15 * * * * curl -k -X POST https://dnsapi.cn/Record.Ddns -d &#39;login_email=登录邮箱&amp;login_password=登录密码&amp;format=json&amp;domain_id=域名编号&amp;record_id=记录编号&amp;record_line=默认&amp;sub_domain=子域名&#39;
+</code></pre>
+<p><em>延伸教程</em></p>
+<p>获取 login_token<br>DNSPOD &gt; 用户中心 &gt; 安全设置 &gt; API Token</p>
+<p>使用英文 , 将 ID 和 Token 连接起来即公共请求参数 login_token</p>
+<p>获取 domain_id<br>curl ‘<a href="https://dnsapi.cn/Domain.List&#39;">https://dnsapi.cn/Domain.List&#39;</a> -d ‘login_token=<your_login_token>&amp;format=json’<br>根据响应中的 domains 得到域名对应的 domain_id</p>
+<p>获取 record_id<br>curl ‘<a href="https://dnsapi.cn/Record.List&#39;">https://dnsapi.cn/Record.List&#39;</a> -d ‘login_token=<your_login_token>&amp;format=json&amp;domain_id=<your_domain_id>‘<br>根据响应中的 records 得到子域名记录对应的 record_id</p>
+<p>“record_line=默认” 无需修改</p>
+<hr>
+<p><em><strong>Ruby 实现方法(新手不推荐)</strong></em></p>
+<p>运行前，请确保你的机器已经配置了Ruby运行环境，关于如何安装Ruby，建议Google一下，这里推荐一篇靠谱的文章。</p>
+<p>首先，你得从DNSPod的官网，登陆到你的域名管理界面，添加一个用来进行DDNS解析的A记录，比如你的域名是abc.com，想用bt.abc.com来做DDNS解析，那么就添加一个名为abc的A记录吧！</p>
+<p>然后，是从GitHub上获取代码，你可以通过网页下载的方式，如果你已经装有git工具，可以直接clone一个下来：</p>
+<pre><code>git clone git://github.com/TimothyYe/DynDNS.git
+</code></pre>
+<p>下载完毕后，进入DynDNS目录，修改Config.rb Config.yaml文件：</p>
+<pre><code># Defination of static strings
+
+login_email : &quot;abc@gmail.com&quot;
+login_password : &quot;1234&quot;
+
+your_Domain : &quot;abc.com&quot;
+your_SubDomain : &quot;bt&quot;
+</code></pre>
+<p>loginemail：是你的DNSPod帐号 loginpassword：是你的DNSPod登陆密码</p>
+<p>yourDomain：是你的域名，比如上面提到的abc.com yourSubDomain：是你新添加那个A记录，比如上面提到的“bt”</p>
+<p>修改完毕后，保存文件，直接用如下命令运行即可：</p>
+<pre><code>ruby DynDNS.rb start
+</code></pre>
+<p>脚本大致工作流程：脚本在后台运行，每5分钟，获取一次你的公网IP，如果发现与A记录解析的IP不一致，就更新A记录的IP。</p>
+<p>运行后，可以ping你的二级域名，检查IP是否已经更新为你当前的公网IP。</p>
+<p>另外，还可以在当前目录中生成的logger.txt中，查看程序运行日志！</p>
+<p>到这里就搭建完成了，等待十分钟，将你的IP改为新的域名吧！</p>
+<p>已授权给<a href="https://www.nathosts.com/">Nathosts</a>使用此篇教程。</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
       <tags>
-        <tag>关于</tag>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HydraBlog更名WeCode</title>
+    <url>/article/c0f79b2b.html</url>
+    <content><![CDATA[<p>伴随着域名的更换，博客的名字也做了一次更换。</p>
+<p>之前Typecho直接更换域名出现了网页乱码的情况，所以干脆直接backup整个网站的files+database，重新做了一次，数据方面无损迁移成功。</p>
+<p>更名的主要原因还是想做的差异化一些，这种站看起来应该是不多，大家一起学学代码，交流心得。</p>
+<p>网站迁移过程中没有遇到什么大的问题，基本都已经解决了。</p>
+<p>这一次会开始长久的干货更新了！大家多多关注。</p>
+]]></content>
+      <categories>
+        <category>动态</category>
+      </categories>
+      <tags>
+        <tag>动态</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网络状态</title>
+    <url>/article/9e393eea.html</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 密码错误。" data-whm="抱歉, 这个文章不能被校验。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="4433d0884c5e9472ff19b37c25115f390e8f72b57a3bcfd17670ae97a4be07d5">c7dcadde3b868827d25db488778d3d8eadfe026ea8648d07af829ff4822646562a814d0be0bd913c0320b6cd00a0e8fb1b94a8ecc6ed09071f886e26d772d41e1d7f874196e59900053b2acf5361135d4dd7d5a673c9f4dacd1705ceb5a11a40eeecd1f7d3cd24a8e91a3543e607f050bacfcd68fe8c3be4e30177162068a8234432ffa91c877665049c0f50b29d5284c504c0c7f01e4850b8a626808f50f0ecb7bf4a6fcc69f3d634fbb7377dd7ce732cab02588c0cd767386ea9818dd0689d928539f2987a19c0a5692fa99df565d0072cdd951bf815854d3bed8ba1596e8811bb5109118466cf7148537eebbf19c7b98c9232657a94a9f2d210c3976cc517f1bc7b905e73c46f33a5a30a3422ca56d73f7bc27d28a6b2b6ca3103dc1f48b8b43005c1d9bf8f75ec10bc3831221abe6ba8646ffe3a9bdb0a91fd0a20d5a2ee798b56e72efc5c67dc2829d6c6dacad65b342453d2aa8cf9dc5721dbae8887262f81efeb568afefde072a29217c35ffa0ac6a1bb5bb789b05a97556c6bc64bceb92654b257633f52b61ad5c2c1faac877173f981c4bdb04f83f05ed78b7ea039e65cc8a7f9e383954696e6e0909d48cfa762419436f5054eff6f1412f3489e494f4eeb6160700f97dbd2e4f02a8b40a949eef94709da6b4bf90390bd37656a86fbbc77e5d8d6c2622958d80fe4013d3716e66ceb05c7aed7758eff91abceadc6b2707c19914f641382795765e9e784a7ccd5c0b1003b070a73792897ad16e4c99e40ada52e4b5415f664d265b2d6f6490754ed2b31badca16913b32fb068d43ffbe3a745664e167137e55577003941fb4f2ecff5b4ea20803d578facdb2e40450efc8642f8b638f34afa46eb30b2a495</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-xray">
+      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">输入密码：</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>动态</category>
+      </categories>
+      <tags>
+        <tag>动态</tag>
       </tags>
   </entry>
 </search>

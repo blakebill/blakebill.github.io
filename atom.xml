@@ -6,7 +6,7 @@
   <link href="https://rubycore.org/atom.xml" rel="self"/>
   
   <link href="https://rubycore.org/"/>
-  <updated>2021-05-03T05:15:06.564Z</updated>
+  <updated>2021-08-07T17:51:52.330Z</updated>
   <id>https://rubycore.org/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>网络状态</title>
+    <link href="https://rubycore.org/article/9e393eea.html"/>
+    <id>https://rubycore.org/article/9e393eea.html</id>
+    <published>2021-08-07T16:34:22.000Z</published>
+    <updated>2021-08-07T17:51:52.330Z</updated>
+    
+    
+    <summary type="html">文章已加密。</summary>
+    
+    
+    
+    <category term="动态" scheme="https://rubycore.org/categories/%E5%8A%A8%E6%80%81/"/>
+    
+    
+    <category term="动态" scheme="https://rubycore.org/tags/%E5%8A%A8%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
     <title>博客更新日志</title>
     <link href="https://rubycore.org/article/c4442e98.html"/>
     <id>https://rubycore.org/article/c4442e98.html</id>
     <published>2021-04-28T02:33:20.000Z</published>
-    <updated>2021-05-03T05:15:06.564Z</updated>
+    <updated>2021-08-01T08:08:34.710Z</updated>
     
     
     <summary type="html">&lt;p&gt;此篇用以记录博客开发相关改动。&lt;/p&gt;</summary>
@@ -45,10 +64,164 @@
     
     
     
+    <category term="学习" scheme="https://rubycore.org/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
     
     <category term="学习" scheme="https://rubycore.org/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="Github" scheme="https://rubycore.org/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HydraBlog更名WeCode</title>
+    <link href="https://rubycore.org/article/c0f79b2b.html"/>
+    <id>https://rubycore.org/article/c0f79b2b.html</id>
+    <published>2018-08-14T12:21:56.000Z</published>
+    <updated>2018-08-14T12:21:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;伴随着域名的更换，博客的名字也做了一次更换。&lt;/p&gt;
+&lt;p&gt;之前Typecho直接更换域名出现了网页乱码的情况，所以干脆直接backup整个网站的files+database，重新做了一次，数据方面无损迁移成功。&lt;/p&gt;
+&lt;p&gt;更名的主要原因还是想做的差异化一些，这种站看起</summary>
+        
+      
+    
+    
+    
+    <category term="动态" scheme="https://rubycore.org/categories/%E5%8A%A8%E6%80%81/"/>
+    
+    
+    <category term="动态" scheme="https://rubycore.org/tags/%E5%8A%A8%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>吾爱破解今日开放注册</title>
+    <link href="https://rubycore.org/article/f4882ee2.html"/>
+    <id>https://rubycore.org/article/f4882ee2.html</id>
+    <published>2018-07-21T05:48:12.000Z</published>
+    <updated>2018-07-21T05:48:12.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天吾爱破解开放了注册，一共有两个时间段可供注册。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;12:00~14:00, 16:00-18:00&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于博客部分更新</title>
+    <link href="https://rubycore.org/article/3ffa55c6.html"/>
+    <id>https://rubycore.org/article/3ffa55c6.html</id>
+    <published>2018-07-21T05:07:27.000Z</published>
+    <updated>2018-07-21T05:07:27.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;针对播放控件的更新，新增了进度条调控。&lt;/p&gt;
+&lt;p&gt;修改了代码高亮部分的底色，更容易辨析。&lt;/p&gt;
+&lt;p&gt;新增文章字数统计，方便于阅读前评估阅读时间。&lt;/p&gt;
+&lt;p&gt;手机端点击头像会自动收起侧边栏。&lt;/p&gt;
+&lt;p&gt;修复 Safari</summary>
+        
+      
+    
+    
+    
+    <category term="动态" scheme="https://rubycore.org/categories/%E5%8A%A8%E6%80%81/"/>
+    
+    
+    <category term="动态" scheme="https://rubycore.org/tags/%E5%8A%A8%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>「DNSPOD」如何自行搭建DDNS</title>
+    <link href="https://rubycore.org/article/36cb3b.html"/>
+    <id>https://rubycore.org/article/36cb3b.html</id>
+    <published>2018-06-24T13:14:36.000Z</published>
+    <updated>2018-08-14T09:04:53.000Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;最近更新：2018/08/14 17:04 新增GoDNS&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;域名&quot;&gt;&lt;a href=&quot;#域名&quot; class=&quot;headerlink&quot; title=&quot;域名&quot;&gt;&lt;/a&gt;域名&lt;/h2&gt;&lt;p&gt;DDNS最重要的就是域名，可以是收费也可以免费。&lt;/p&gt;
+&lt;p&gt;我们以免费为例；&lt;br&gt;&lt;img data-src=&quot;/images/ddns/4216778621.png&quot; alt=&quot;20180624211243.png&quot;&gt;&lt;br&gt;&lt;a href=&quot;http://www.dot.tk/zh/index.html&quot;&gt;http://www.dot.tk/zh/index.html&lt;/a&gt;（Free domains for all）&lt;/p&gt;
+&lt;p&gt;以hydrablog为例，那我们可以看到有五个免费域名可供我们注册，我选择了.cf，待会所需要的工具为DNSPOD。&lt;br&gt;&lt;img data-src=&quot;/images/ddns/2180166369.png&quot; alt=&quot;20180624211318.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;会跳转到Freenom的页面，我们选择12个月，并在DNS里随便填写一个IP以作备用。&lt;/p&gt;
+&lt;p&gt;跳转到下一页，注册或者登陆账号。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://rubycore.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://rubycore.org/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本站搬迁至 HostShare 高性能主机</title>
+    <link href="https://rubycore.org/article/8ac70619.html"/>
+    <id>https://rubycore.org/article/8ac70619.html</id>
+    <published>2018-06-19T09:10:56.000Z</published>
+    <updated>2018-06-19T09:10:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;搬迁原因&quot;&gt;&lt;a href=&quot;#搬迁原因&quot; class=&quot;headerlink&quot; title=&quot;搬迁原因&quot;&gt;&lt;/a&gt;搬迁原因&lt;/h2&gt;&lt;p&gt;因为之前本博客主机放在咖啡主机，有不少朋友说无法访问，有时候还访问极慢，所以把网站搬了出来。经过艰难抉择，最终选定在</summary>
+        
+      
+    
+    
+    
+    <category term="动态" scheme="https://rubycore.org/categories/%E5%8A%A8%E6%80%81/"/>
+    
+    
+    <category term="服务器" scheme="https://rubycore.org/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="动态" scheme="https://rubycore.org/tags/%E5%8A%A8%E6%80%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WordPress成功转Typecho</title>
+    <link href="https://rubycore.org/article/845cb4e1.html"/>
+    <id>https://rubycore.org/article/845cb4e1.html</id>
+    <published>2018-06-11T14:20:56.000Z</published>
+    <updated>2018-06-11T14:20:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;个人习惯，网站有较大的改动时就推倒重做，现在你所看到的已是第九次重建网站了。&lt;br&gt;第一次接触到这个是在两年前，当时看到不少推荐GoDaddy的虚拟空间，就买了一年的，照着教程搭建起了WordPress，成立了第一个网站，那时觉得网站搭建很简单，但后来因为GoDaddy服务</summary>
+        
+      
+    
+    
+    
+    <category term="动态" scheme="https://rubycore.org/categories/%E5%8A%A8%E6%80%81/"/>
+    
+    
+    <category term="动态" scheme="https://rubycore.org/tags/%E5%8A%A8%E6%80%81/"/>
     
   </entry>
   
@@ -61,14 +234,34 @@
     
     
     <summary type="html">&lt;p&gt;这里是 &lt;strong&gt;Blake&lt;/strong&gt; 的新站点: &lt;em&gt;&lt;strong&gt;RubyCore&lt;/strong&gt;&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;博客也从 WeCode 更名为 RubyCore。&lt;/p&gt;
 &lt;p&gt;目前已经历从 Wordpress –&amp;gt; Typecho –&amp;gt; Hexo 的迁移。&lt;/p&gt;
-&lt;p&gt;正努力迁移先前数据。&lt;/p&gt;
 &lt;p&gt;全新启航！&lt;/p&gt;</summary>
     
     
     
     
     <category term="关于" scheme="https://rubycore.org/tags/%E5%85%B3%E4%BA%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GoDaddy虚拟空间使用感受</title>
+    <link href="https://rubycore.org/article/b2b393cf.html"/>
+    <id>https://rubycore.org/article/b2b393cf.html</id>
+    <published>2016-06-18T08:27:13.000Z</published>
+    <updated>2016-06-18T08:27:13.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今天买了一台狗爹的虚拟空间，货比三家，挑了这家最便宜的哈哈！&lt;br&gt;（当时做了一件很傻吊的事情，直接删鸡还没要退款，相当于买了两份……）&lt;/p&gt;
+&lt;p&gt;对于GoDaddy虚拟主机，小编相信很多站长朋友都很熟悉，作为全球最大的域名注册商，不仅访问速度快、服务好、而且稳定性也是非常强的，最重要的是价格是很便宜，这些也是很多站长喜欢GoDaddy的原因，但是GoDaddy虚拟主机到底怎么样呢?接下来小编就给大家分析为什么那么多人喜欢选择GoDaddy。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="服务器" scheme="https://rubycore.org/categories/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    
+    <category term="服务器" scheme="https://rubycore.org/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   
